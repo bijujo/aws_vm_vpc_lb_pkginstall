@@ -6,3 +6,4 @@ Example AWS terraform script to deploy
   5. Install package using provisioner
 
 Base from Terraform github repo
+To add: S3 backend
